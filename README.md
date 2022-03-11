@@ -1,3 +1,6 @@
+# ToDo:
+Describe in more detail what my research actually entailed.
+
 # sSNOM
 Script for processing of sSNOM data to filter out interference.
 
